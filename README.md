@@ -15,25 +15,25 @@
 ## 1. Introduction
 Notre vision est de créer une application web pour la Coupe du Monde 2030 au Maroc, où les fans de football du monde entier pourront non seulement suivre l'actualité des matchs, mais aussi explorer et célébrer la culture marocaine. En unissant sport, tourisme et technologie, l’idée vise à laisser une empreinte positive et à promouvoir le Maroc comme destination culturelle incontournable. Nous aspirons à créer des souvenirs impérissables pour les visiteurs et à soutenir le développement durable du Maroc à travers l’exposition de sa riche diversité culturelle.
 
-![Home page](/src/main/resources/photo/home.jpeg)
+![Home page](/photo/home.jpeg)
 
 ## 2. Objectifs du projet
 **Gestion des Matches :** Le site offre une fonctionnalité de suivi des matches en temps réel, fournissant des informations détaillées sur les équipes, les horaires et les résultats.
 
-![Match page](/src/main/resources/photo/match.jpeg)
+![Match page](/photo/match.jpeg)
 
 **Tourisme et Culture :** Intégration de recommandations touristiques, mettant en avant la riche culture marocaine, des guides pour explorer les sites historiques.
 
-![Culture page](/src/main/resources/photo/monument.png)
+![Culture page](/photo/monument.png)
 
 **Exploration Culturelle :** L'application permet aux utilisateurs d'explorer la richesse culturelle du Maroc, mettant en avant sa cuisine, ses monuments et d'autres éléments emblématiques.
 
-![Cuisine page](/src/main/resources/photo/food.jpeg)
+![Cuisine page](/photo/food.jpeg)
 
 **Suivi des Équipes et Joueurs :** Offrir un suivi des équipes, des joueurs et des entraîneurs.
 
-![Players and teams page](/src/main/resources/photo/teams.jpeg)
-![Players and teams page](/src/main/resources/photo/players.jpeg)
+![Players and teams page](/photo/teams.jpeg)
+![Players and teams page](/photo/players.jpeg)
 ## 3. Technologies
 **Angular(Front End) :** est un framework open source développé par Google pour construire des applications web dynamiques et interactives côté client
 
@@ -79,33 +79,33 @@ __*Accueil :*__
 Le header de CupExplorer est minutieusement conçu pour offrir une expérience utilisateur intuitive et accessible.
 Ce qui nous donne cette interface :   
  
-![Acceuil page](/src/main/resources/photo/home.jpeg)
+![Acceuil page](/photo/home.jpeg)
 
 Et pout le footer : 
 
-![Footer page](/src/main/resources/photo/footer.png)
+![Footer page](/photo/footer.png)
 
 
 __*Section d'Accueil :*__
 
 Le composant Home met en lumière le Maroc en tant que pays hôte de la Coupe du Monde 2030. Il offre une introduction à Visit Morocco, encourage l'exploration des villes hôtes, présente des informations sur les destinations, expose les équipes de villes avec des liens pour en savoir plus, et propose des recommandations de services de voyage diversifiés. Les sections clés comprennent "À Propos de Nous" ("About Us"), "Destinations" ("Destination"), "Équipes" ("Team"), et "Services". L'objectif de cette composante est de fournir une expérience immersive incitant à découvrir la culture, les traditions, et les services exceptionnels du Maroc.
 
-![Home1 page](/src/main/resources/photo/homeSection.png)
+![Home1 page](/photo/homeSection.png)
 
-![Home2 page](/src/main/resources/photo/homeSec2.png)
+![Home2 page](/photo/homeSec2.png)
 
 __*Authentification :*__
 
 L'interface d'authentification se présente sous la forme d'un formulaire élégant. Elle offre aux utilisateurs la possibilité de s'inscrire avec leur adresse e-mail et mot de passe
 
-![auth page](/src/main/resources/photo/auth.png)
+![auth page](/photo/auth.png)
 
 ### 4.2 Back end - Spring boot
 
 
 Cette section présente la structure détaillée de la partie backend, mettant l'accent sur les composants clés tels que les modèles, les interfaces de repos, les services, les implémentations de services, et les contrôleurs REST.
 
-![codeStructure page](/src/main/resources/photo/codeStructure.png)
+![codeStructure page](/photo/codeStructure.png)
 
 __*Modèles (Model)*__
 
