@@ -1,0 +1,18 @@
+[submodule "angularProject"]
+	path = angularProject
+	url = https://github.com/nadabm/angularProject
+[submodule "mondial"]
+	path = mondial
+	url = git@github.com:meedastitou/mondial.git
+[submodule "Culture_microservice"]
+	path = Culture_microservice
+	url = https://github.com/meedastitou/Culture_microservice/
+[submodule "Culisine_microservice"]
+	path = Culisine_microservice
+	url = https://github.com/meedastitou/Culisine_microservice
+[submodule "Gateway_microservice"]
+	path = Gateway_microservice
+	url = https://github.com/meedastitou/Gateway_microservice
+[submodule "Descover_microservice"]
+	path = Descover_microservice
+	url = https://github.com/meedastitou/Descover_microservice
